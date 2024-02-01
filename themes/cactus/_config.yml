@@ -16,6 +16,7 @@ nav:
   home: /
   about: /about/
   articles: /archives/
+  rss: /rss2.xml
 
 # Links to your social media accounts.
 # The 'icon' keys should correspond to Fontawesome icon names
