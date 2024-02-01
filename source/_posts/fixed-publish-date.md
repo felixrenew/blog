@@ -1,5 +1,5 @@
 ---
-title: Test-Theme-Config
+title: Fixed publish date
 date: 2024-02-01 14:34:02
 updated: 2024-02-01 14:34:02
 tags:
