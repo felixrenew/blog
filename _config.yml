@@ -95,6 +95,17 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+
+feed:
+  # Generate both atom and rss2 feeds
+  type:
+    - atom
+    - rss2
+  path:
+    - atom.xml
+    - rss2.xml
+
+
 ## Themes: https://hexo.io/themes/
 theme: cactus
 
