@@ -1,4 +1,5 @@
 ---
 title: {{ title }}
-date: {{ mtime }}
+date: {{ date }}
+updated: {{ date }}
 ---
