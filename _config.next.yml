@@ -52,7 +52,7 @@ favicon:
   small: /images/favicon-16x16-felix.png
   medium: /images/favicon-32x32-felix.png
   apple_touch_icon: /images/apple-touch-icon-felix.png
-  safari_pinned_tab: /images/logo.svg
+  safari_pinned_tab: /images/logo-felix.svg
   #android_manifest: /manifest.json
 
 # Custom Logo (Warning: Do not support scheme Mist)
