@@ -107,7 +107,6 @@ feed:
 
 ## Themes: https://hexo.io/themes/
 theme: next
-theme_config:
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
