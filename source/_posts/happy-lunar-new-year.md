@@ -2,7 +2,11 @@
 title: Happy Lunar New Year
 date: 2024-02-12 20:11:42
 updated: 2024-02-12 20:11:42
-tags: life, loong-year, happy-new-year
+categories:
+  - life
+tags:
+  - loong-year
+  - happy-new-year
 ---
 
 This year is the Year of the Dragon in China. The photo below was taken on February 12, 2024 at the Golden Elephant City in Nanjing.
